@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discrete Logic Systems | Automated Legal Intake</title>
+    <!-- Tailwind CSS for styling without needing external CSS files -->
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-900 font-sans antialiased">
+    
+    <!-- Navigation Bar -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-4 py-6">
+            <h1 class="text-2xl font-bold tracking-tight text-slate-900">Discrete Logic Systems</h1>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="bg-slate-900 text-white py-24 px-4 text-center">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-5xl font-extrabold tracking-tight sm:text-6xl mb-6">Never lose a retainer to a missed call again.</h2>
+            <p class="text-xl text-slate-300 mb-10">Automated, zero-latency client intake architecture designed exclusively for law firms.</p>
+            <a href="#demo" class="bg-blue-600 hover:bg-blue-500 text-white font-semibold py-4 px-8 rounded-lg text-lg transition duration-300">Watch the Demo</a>
+        </div>
+    </section>
+
+    <!-- Loom Demo Section -->
+    <section id="demo" class="py-20 px-4 bg-white">
+        <div class="max-w-4xl mx-auto text-center">
+            <h3 class="text-3xl font-bold mb-8">See The Architecture In Action</h3>
+            <div class="aspect-w-16 aspect-h-9 bg-slate-200 rounded-xl shadow-lg flex items-center justify-center border border-slate-300 h-96">
+                <!-- You will paste your Loom Embed HTML here later -->
+                <p class="text-slate-500 font-medium">[ Your 2-Minute Loom Video Embed Goes Here ]</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About the Engineer / Credibility Section -->
+    <section class="py-20 px-4 bg-slate-100">
+        <div class="max-w-4xl mx-auto">
+            <div class="bg-white p-10 rounded-2xl shadow-sm border border-slate-200">
+                <h3 class="text-2xl font-bold mb-4">Enterprise-Grade Infrastructure</h3>
+                <p class="text-slate-600 text-lg leading-relaxed mb-4">
+                    Discrete Logic Systems builds custom data pipelines using Python and C, bypassing off-the-shelf software to deliver flawless, sub-minute routing logic. 
+                </p>
+                <p class="text-slate-600 text-lg leading-relaxed">
+                    Developed by a Purdue University Computer Science engineer with enterprise infrastructure experience at Google Cloud, every system is built on strict discrete mathematics to ensure your high-value inbound leads are captured securely and instantly.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact CTA Section -->
+    <section class="py-20 px-4 bg-white border-t border-slate-200">
+        <div class="max-w-md mx-auto text-center">
+            <h3 class="text-3xl font-bold mb-6">Upgrade Your Intake Logic</h3>
+            <p class="text-slate-600 mb-8">Ready to deploy a custom missed-call pipeline for your firm? Send an email to schedule an implementation overview.</p>
+            <!-- Replace YOURDOMAIN with your actual domain below -->
+            <a href="mailto:federico@YOURDOMAIN.com" class="inline-block bg-slate-900 hover:bg-slate-800 text-white font-semibold py-4 px-8 rounded-lg w-full transition duration-300">Email federico@YOURDOMAIN.com</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 text-slate-400 py-8 text-center px-4">
+        <p>&copy; 2026 Discrete Logic Systems. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
